@@ -1,0 +1,6 @@
+﻿  Action.cpp
+  Source.cpp
+C:\Users\tanyo\Y2S1_SEGF_A02\Y2S1_SEGF_A02\Prototype\Source.cpp(26,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tanyo\Y2S1_SEGF_A02\Y2S1_SEGF_A02\Prototype\Source.cpp(28,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Prototype.vcxproj -> C:\Users\tanyo\Y2S1_SEGF_A02\Y2S1_SEGF_A02\Debug\Prototype.exe
